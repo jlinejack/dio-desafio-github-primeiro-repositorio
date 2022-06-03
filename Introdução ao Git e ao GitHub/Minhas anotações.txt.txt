@@ -1,0 +1,15 @@
+# Criando um novo documento Markdown usando WordPad:
+
+- Criar novo documento no WordPad, salvar no formato  ms-dos.
+
+# Criando um novo documento Markdown usando o bloco de notas:
+
+- Criar um novo documento de texto, salvar com a extensão .md.
+
+
+### Tudo que está no seu repositório local deve ser commitado.
+
+
+
+
+Quem acredita sempre alcança...
